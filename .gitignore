@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 密钥，绝不入库
+.env
+
+# 轨迹数据（运行产物），保留 data/ 目录但忽略生成的 jsonl
+data/*.jsonl
+
+# macOS
+.DS_Store
+
+# 前端（第 3 周用到）
+node_modules/
+dist/

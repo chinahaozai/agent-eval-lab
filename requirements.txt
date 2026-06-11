@@ -1,0 +1,3 @@
+# Day 1 依赖。后续每周按需追加（如评测周的 pandas、可执行校验等）。
+openai>=1.0
+python-dotenv>=1.0
